@@ -1,0 +1,19 @@
+{
+  "name": "AppBarber AI — Copiloto de Barbería y AR",
+  "short_name": "AppBarber AI",
+  "description": "Visagismo en tiempo real, diagramas de corte en Realidad Aumentada, mapa de peines/palancas y diagnóstico craneal con IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="56" fill="#09090b"/>
+  <rect x="8" y="8" width="240" height="240" rx="48" stroke="#f59e0b" stroke-width="4" stroke-opacity="0.35"/>
+  <!-- AR Face Scan Corner Brackets -->
+  <path d="M44 80V54C44 48.4772 48.4772 44 54 44H80" stroke="#06b6d4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M212 80V54C212 48.4772 207.523 44 202 44H176" stroke="#06b6d4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M44 176V202C44 207.523 48.4772 212 54 212H80" stroke="#06b6d4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M212 176V202C212 207.523 207.523 212 202 212H176" stroke="#06b6d4" stroke-width="8" stroke-linecap="round"/>
+  <!-- Stylized Head & Fade Lines -->
+  <path d="M84 118C84 88 102 68 128 68C154 68 172 88 172 118C172 154 152 184 128 184C104 184 84 154 84 118Z" stroke="#f59e0b" stroke-width="7"/>
+  <path d="M80 108C104 98 152 98 176 108" stroke="#22c55e" stroke-width="5" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <path d="M82 128C108 118 148 118 174 128" stroke="#eab308" stroke-width="5" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <path d="M88 146C112 138 144 138 168 146" stroke="#ef4444" stroke-width="5" stroke-dasharray="8 6" stroke-linecap="round"/>
+</svg>
+
